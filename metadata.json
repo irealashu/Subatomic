@@ -1,0 +1,6 @@
+{
+  "name": "Subatomic - Elementary Particles & Standard Model Explorer",
+  "description": "Interactive, scientific reference and visual exploration platform for elementary particles, the Standard Model, quantum properties, Feynman diagrams, and fundamental forces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
